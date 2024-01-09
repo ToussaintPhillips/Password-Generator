@@ -7,14 +7,14 @@
   <p align="center">
     A powerful tool for generating secure passwords using JavaScript.
     <br />
-    <a href="https://github.com/your-github-username/Password-Generator"><strong>
+    <a href="https://github.com/ToussaintPhillips/Password-Generator"><strong>
     <br />
     <br />
-    <a href="https://your-github-username.github.io/Password-Generator/">View Demo</a>
+    <a href="https://ToussaintPhillips.github.io/Password-Generator/">View Demo</a>
     ·
-    <a href="https://github.com/your-github-username/Password-Generator/issues">Report Bug</a>
+    <a href="https://github.com/ToussaintPhillips/Password-Generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/your-github-username/Password-Generator/issues">Request Feature</a>
+    <a href="https://github.com/ToussaintPhillips/Password-Generator/issues">Request Feature</a>
   </p>
 </div>
 
@@ -132,9 +132,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more details.
 <!-- CONTACT -->
 ## Contact
 
-Email - your-email@example.com
-
-Project Link: [https://your-github-username.github.io/Password-Generator/]
+Email - Toussaintphillips@gmail.com
+Project Link: [https://ToussaintPhillips.github.io/Password-Generator/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
