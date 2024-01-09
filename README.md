@@ -147,5 +147,3 @@ Project Link: [https://your-github-username.github.io/Password-Generator/]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 --- 
-
-Please replace placeholders such as `your-github-username` and `your-email@example.com` with appropriate details.
